@@ -1,0 +1,6 @@
+/src/sensors/data/**
+/.DS_Store
+/_.DS_Store
+/build/**
+/_CMakeLists.txt
+/.vscode/**
